@@ -1,0 +1,11 @@
+opencv-python~=4.4.0.46
+fastapi~=0.78.0
+redis~=4.3.1
+sqlalchemy~=1.4.35
+numpy~=1.23.0
+imutils~=0.5.4
+scipy~=1.8.0
+apscheduler~=3.9.1
+uvicorn~=0.17.6
+pyDes~=2.0.1
+pydantic~=1.9.1
